@@ -1,0 +1,20 @@
+C:\Users\succe\source\repos\Recruitment agency\bin\Debug\Recruitment agency.exe.config
+C:\Users\succe\source\repos\Recruitment agency\bin\Debug\Recruitment agency.exe
+C:\Users\succe\source\repos\Recruitment agency\bin\Debug\Recruitment agency.pdb
+C:\Users\succe\source\repos\Recruitment agency\obj\Debug\Recruitment agency.csprojAssemblyReference.cache
+C:\Users\succe\source\repos\Recruitment agency\obj\Debug\Recruitment_agency.Properties.Resources.resources
+C:\Users\succe\source\repos\Recruitment agency\obj\Debug\Recruitment agency.csproj.GenerateResource.cache
+C:\Users\succe\source\repos\Recruitment agency\obj\Debug\Recruitment agency.csproj.CoreCompileInputs.cache
+C:\Users\succe\source\repos\Recruitment agency\obj\Debug\Recruitment agency.exe
+C:\Users\succe\source\repos\Recruitment agency\obj\Debug\Recruitment agency.pdb
+C:\Users\succe\source\repos\Recruitment agency\obj\Debug\Recruitment agency.csproj.CopyComplete
+C:\Users\succe\source\repos\Recruitment agency\bin\Debug\Spire.Doc.dll
+C:\Users\succe\source\repos\Recruitment agency\bin\Debug\Spire.Pdf.dll
+C:\Users\succe\source\repos\Recruitment agency\bin\Debug\Microsoft.mshtml.dll
+C:\Users\succe\source\repos\Recruitment agency\bin\Debug\Spire.Doc.xml
+C:\Users\succe\source\repos\Recruitment agency\bin\Debug\Spire.Pdf.xml
+C:\Users\succe\source\repos\Recruitment agency\bin\Debug\Spire.License.dll
+C:\Users\succe\source\repos\Recruitment agency\bin\Debug\Spire.License.xml
+C:\Users\succe\source\repos\Recruitment agency\obj\Debug\Recruitment_agency.LoginForm.resources
+C:\Users\succe\source\repos\Recruitment agency\obj\Debug\Recruitment_agency.MainForm.resources
+C:\Users\succe\source\repos\Recruitment agency\obj\Debug\Recruitment_agency.FilterForm.resources

@@ -1,0 +1,22 @@
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Recruitment agency.exe.config
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Recruitment agency.exe
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Recruitment agency.pdb
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Spire.Doc.dll
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Spire.License.dll
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Spire.Pdf.dll
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Xceed.Document.NET.dll
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Xceed.Words.NET.dll
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Microsoft.mshtml.dll
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Spire.Doc.xml
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Spire.License.xml
+C:\Users\succe\source\repos\Recruitment agency\bin\Release\Spire.Pdf.xml
+C:\Users\succe\source\repos\Recruitment agency\obj\Release\Recruitment agency.csprojAssemblyReference.cache
+C:\Users\succe\source\repos\Recruitment agency\obj\Release\Recruitment_agency.FilterForm.resources
+C:\Users\succe\source\repos\Recruitment agency\obj\Release\Recruitment_agency.MainForm.resources
+C:\Users\succe\source\repos\Recruitment agency\obj\Release\Recruitment_agency.LoginForm.resources
+C:\Users\succe\source\repos\Recruitment agency\obj\Release\Recruitment_agency.Properties.Resources.resources
+C:\Users\succe\source\repos\Recruitment agency\obj\Release\Recruitment agency.csproj.GenerateResource.cache
+C:\Users\succe\source\repos\Recruitment agency\obj\Release\Recruitment agency.csproj.CoreCompileInputs.cache
+C:\Users\succe\source\repos\Recruitment agency\obj\Release\Recruitment agency.csproj.CopyComplete
+C:\Users\succe\source\repos\Recruitment agency\obj\Release\Recruitment agency.exe
+C:\Users\succe\source\repos\Recruitment agency\obj\Release\Recruitment agency.pdb
